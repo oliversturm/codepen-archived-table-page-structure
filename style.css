@@ -1,0 +1,12 @@
+.container {
+  margin: 0 auto;
+  width: 100%;
+}
+
+td.header {
+  background-color: #09f;
+}
+
+td.navbar {
+  background-color: #0f9;
+}
